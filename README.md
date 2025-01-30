@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/Hey-Salad/.github/refs/heads/main/HeySalad%20Logo%20%2B%20Tagline%20Black.svg" alt="HeySalad Logo" width="400"/>
+
 # 3D Model Generator
 
 A web service that generates 3D models from 2D images using Hunyuan3D-2.
