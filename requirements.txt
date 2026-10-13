@@ -239,7 +239,7 @@ pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_17118115
 pydantic==1.10.19
 pydata-google-auth==1.8.2
 Pygments==2.18.0
-PyJWT==2.10.0
+PyJWT==2.15.0
 pyogrio==0.10.0
 pyOpenSSL==24.2.1
 pyparsing==3.2.0
