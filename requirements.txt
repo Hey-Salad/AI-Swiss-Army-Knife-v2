@@ -174,7 +174,7 @@ memray==1.14.0
 menuinst @ file:///home/conda/feedstock_root/build_artifacts/menuinst_1731146967497/work
 mistune==3.0.2
 more-itertools==10.5.0
-msgpack==1.1.0
+msgpack==1.2.3
 multidict==6.1.0
 multimethod==1.12
 multipledispatch==1.0.0
