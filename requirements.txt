@@ -297,7 +297,7 @@ time-machine==2.16.0
 tinycss2==1.4.0
 tomli==2.1.0
 toolz==0.12.1
-tornado==6.4.1
+tornado==6.6
 tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1730926118411/work
 traitlets==5.14.3
 truststore @ file:///home/conda/feedstock_root/build_artifacts/truststore_1729762363021/work
