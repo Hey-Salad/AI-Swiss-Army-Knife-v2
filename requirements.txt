@@ -63,7 +63,7 @@ Farama-Notifications==0.0.4
 fastapi==0.115.5
 fastjsonschema==2.20.0
 fastrlock==0.8.2
-filelock==3.16.1
+filelock==4.2.1
 fonttools==4.55.0
 fqdn==1.5.1
 frozendict @ file:///home/conda/feedstock_root/build_artifacts/frozendict_1728841320383/work
